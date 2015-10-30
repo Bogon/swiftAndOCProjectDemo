@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "e72a8f6775dbf04e99e045d07d064078"
+build_time: [499524151, 243514000]
+inputs:
+  "/Users/lefukeji/Desktop/swiftAndOCProjectDemo/swiftTest.swift": [499524151, 0]
